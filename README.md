@@ -1,8 +1,14 @@
 # auto_waste
 
-A Flutter application for events.
+A Flutter application for automated waste disposal.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+The login page
+
+![](assets/screenshot/s1.png)
+
+
+The register page
+
+![](assets/screenshot/s2.png)
